@@ -1,0 +1,6 @@
+langgraph
+boto3
+dateparser
+langchain-aws
+pandas
+openpyxl
